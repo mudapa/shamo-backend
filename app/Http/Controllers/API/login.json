@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "success",
+        "message": "Authenticated"
+    },
+    "data": {
+        "access_token": "43|eyczPTTGey4H9Xiuula1capSGWzlgcGUmNJpIxZW",
+        "token_type": "Bearer",
+        "user": {
+            "id": 7,
+            "name": "mudapa213",
+            "email": "mudapa213@gmail.com",
+            "username": "mudapa213",
+            "roles": "USER",
+            "email_verified_at": null,
+            "current_team_id": null,
+            "profile_photo_path": null,
+            "created_at": "2022-10-08T11:11:34.000000Z",
+            "updated_at": "2022-10-08T11:11:34.000000Z",
+            "profile_photo_url": "https:\/\/ui-avatars.com\/api\/?name=m&color=7F9CF5&background=EBF4FF"
+        }
+    }
+}
